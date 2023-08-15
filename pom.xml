@@ -41,7 +41,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <guava.version>29.0-jre</guava.version>
     <javac.version>9+181-r4173-1</javac.version>
-    <maven.version>3.6.3</maven.version>
+    <maven.version>3.8.1</maven.version>
     <resolver.version>1.4.2</resolver.version>
     <truth.version>1.0.1</truth.version>
   </properties>
